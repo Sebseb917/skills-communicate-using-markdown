@@ -17,3 +17,10 @@ const Suspiro = true;
   <a href='#' target='_blank'> github.com </a>
 </div>
 ```
+#
+#### Task list
+
+- [x] ¿Una lista?
+- [x] ¿Tiene utilidad?
+- [ ] Supongo
+#
